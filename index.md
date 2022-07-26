@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "title placeholder"
 ---
 
-The ONLY opinion that matters
+subtitle placeholder
 
 
 <!-- Subscription Form -->
