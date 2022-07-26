@@ -1,8 +1,8 @@
 ---
-title: "title placeholder"
+title: "Reviewski"
 ---
 
-subtitle placeholder
+Reviewski - Movie Reviews by Christian Glazewski
 
 
 <!-- Subscription Form -->
