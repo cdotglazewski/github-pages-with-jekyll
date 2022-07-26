@@ -1,8 +1,8 @@
 ---
-title: "Test title"
+title: ""
 ---
 
-test description
+The ONLY opinion that matters
 
 
 <!-- Subscription Form -->
