@@ -1,5 +1,5 @@
 ---
-title: "Glazewski Movie Reviews"
+title: "Test title"
 ---
 
-Glazewski Movie Reviews
+test description
