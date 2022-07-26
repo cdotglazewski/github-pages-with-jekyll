@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Glazewski Movie Reviews"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Glazewski Movie Reviews
