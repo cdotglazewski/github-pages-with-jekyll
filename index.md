@@ -2,7 +2,7 @@
 title: "Reviewski"
 ---
 
-Reviewski - Movie Reviews by Christian Glazewski
+Movie Reviews by Christian Glazewski
 
 
 <!-- Subscription Form -->
